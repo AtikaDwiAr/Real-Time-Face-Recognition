@@ -3,11 +3,7 @@
 Project ini mengimplementasikan sistem Face Recognition secara real-time menggunakan metode Eigenfaces dengan OpenCV dan scikit-learn.
 
 ## Installation
-Pastikan Python 3.8+ sudah terinstal. Install semua library yang diperlukan dengan menjalankan perintah berikut:
-
-```bash
-pip install -r requirements.txt
-```
+Pastikan Python 3.8+ sudah terinstal. Install semua library yang diperlukan: 
 
 Required packages:
 - opencv-python
