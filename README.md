@@ -13,7 +13,7 @@ Required packages:
 
 ## Usage
 
-### 1. Ekstrak Dataset
+### 1. Extract Dataset
 Run `extract_dataset.py` untuk mengekstrak file dataset gambar ke dalam folder `images/`:
 
 ```bash
