@@ -12,7 +12,6 @@ Required packages:
 - numpy
 
 ## Usage
-Sistem bekerja dalam tiga langkah:
 
 ### 1. Ekstrak Dataset
 Run `extract_dataset.py` untuk mengekstrak file dataset gambar ke dalam folder `images/`:
