@@ -48,12 +48,14 @@ Tekan `q` pada keyboard untuk keluar dari tampilan webcam.
 
 ## Project Structure
 ```plaintext
+FDR_Project/
 ├── dataset.zip
-├── extract_dataset.py   # Script untuk mengekstrak dataset
-├── delete_junk.py       # Script untuk menghapus file sampah
-├── main.py              # Script utama untuk training dan face recognition
-├── images/                  # Folder untuk menyimpan gambar wajah
-├── eigenface_pipeline.pkl   # Model yang telah dilatih
-├── requirements.txt         # Daftar library Python yang dibutuhkan
+├── eigenface_pipeline.pkl
+├── delete_junk.py
+├── extract_dataset.py
+├── main.py
+├── requirements.txt
+└── README.md
 ```
+
 
