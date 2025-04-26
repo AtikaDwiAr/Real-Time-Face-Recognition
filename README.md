@@ -2,7 +2,7 @@
 
 Project ini mengimplementasikan sistem Face Recognition secara real-time menggunakan metode Eigenfaces dengan OpenCV dan scikit-learn.
 
-![Face Recognition Result](https://drive.google.com/file/d/1233WrMjSRkp6V8Jn6S5HQRNDncsuQ_Fn/view?usp=drive_link)
+![Face Recognition Result](https://drive.google.com/uc?export=view&id=1233WrMjSRkp6V8Jn6S5HQRNDncsuQ_Fn)
 
 ## Installation
 Pastikan Python 3.8+ sudah terinstal. Install semua library yang diperlukan: 
